@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.main-container {
+  min-height: 100vh;
+  background-image: linear-gradient(#ff6e7f, #bfe9ff);
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.second-container {
+  text-align: center;
+}
+button {
+  cursor: pointer;
+}
+h1 {
+  font-size: bold;
+}
+.para {
+  font-size: 25px;
+  font-weight: 400;
+}
